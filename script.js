@@ -616,7 +616,7 @@ function loadSpotifyPlaylist(playlistNumber) {
         },
         2: {
             // Ganti dengan playlist kedua kamu
-            embedUrl: 'https://open.spotify.com/playlist/3l5yaDwU3RCdme5AySvWps?si=vCbnA-j0S5G1r0sN-V9v-w',
+            embedUrl: 'https://open.spotify.com/embed/playlist/3l5yaDwU3RCdme5AySvWps?si=vCbnA-j0S5G1r0sN-V9v-w',
             name: 'Playlist kita berdua',
             description: 'Playlist yang kita buat❤️'
         },
